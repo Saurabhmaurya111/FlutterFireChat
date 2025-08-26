@@ -27,6 +27,32 @@ Designed for seamless communication with online/offline presence, message ticks,
 - **State Management**: Cubit (BLoC package)  
 
 ---
+
+## 📸 Screenshots
+
+<table>
+  <tr>
+    <td><img src="assets/screenshot/loginInpage.png" width="250" height="500"></td>
+    <td><img src="assets/screenshot/signUppage.png" width="250" height="500"></td>
+    <td><img src="assets/screenshot/signupwithdata.png" width="250" height="500"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot/showingTyping.png" width="375" height="500"></td>
+    <td><img src="assets/screenshot/showingmessdeliever.png" width="375" height="500"></td>
+ 
+<!--     <td><img src="assets/screenshot6.png" width="250" height="500"></td> -->
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot/showingmessagecount.png" width="375" height="500"></td>
+    <td><img src="assets/screenshot/backend_user_firebase.png" width="375" height="500"></td>
+
+  </tr>
+  <tr>
+    <td><img src="assets/screenshot/backendlogindata.png" width="375" height="500"></td>
+    <td><img src="assets/screenshot/backend_chatroom.png" width="375" height="500"></td>
+    
+  </tr>
+</table>
  
 ## 📦 Repo Structure
  ```
