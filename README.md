@@ -1,4 +1,4 @@
-# 🚀 FlareChat – Chat App in Flutter
+# 🚀 FlutterFireChat – Chat App in Flutter
 
 **FlareChat** — a scalable 1-to-1 real-time chat app built with **Flutter** and **Firebase**.  
 Designed for seamless communication with online/offline presence, message ticks, and real-time updates.
