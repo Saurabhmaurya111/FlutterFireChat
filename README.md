@@ -136,8 +136,8 @@ README.md
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Saurabhmaurya111/flarechat.git
-   cd flarechat
+   git clone https://github.com/Saurabhmaurya111/FluttFireChat.git
+   cd FluttFireChat
 2. Install dependencies:
    ```bash
    flutter pub get 
